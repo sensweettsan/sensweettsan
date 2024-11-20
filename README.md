@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/zhx0_pZ0NI4AAAAd/galaxian-video-game.gif">
 
 
-- 🔭 Atualmente estou trabalhando em [App_Dog_At_01](https://github.com/sensweettsan/App_Dog_At_01)<br><br>-<br><br>- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/sensweettsan](https://github.com/sensweettsan)<br><br><br><br>- 📫 Como entrar em contato comigo **samuelfsp72@gmail.com**<br><br>- 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/samuel-f-157814260/](https://www.linkedin.com/in/samuel-f-157814260/)
+- 🔭 Atualmente estou trabalhando em [App_Dog_At_01](https://github.com/sensweettsan/App_Dog_At_01)<br><br><br><br>👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/sensweettsan](https://github.com/sensweettsan)<br><br><br><br>- 📫 Como entrar em contato comigo **samuelfsp72@gmail.com**<br><br>- 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/samuel-f-157814260/](https://www.linkedin.com/in/samuel-f-157814260/)
 
 
 

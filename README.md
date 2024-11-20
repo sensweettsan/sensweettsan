@@ -1,6 +1,6 @@
 # 💫 About Me: Developer Samuel Francisco
 
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/CHFuOeGJFzAAAAAd/2d-platformer-donkey-kong.gif">
+<img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/zhx0_pZ0NI4AAAAd/galaxian-video-game.gif">
 
 
 - 🔭 Atualmente estou trabalhando em [App_Dog_At_01](https://github.com/sensweettsan/App_Dog_At_01)<br><br>- 🌱 Atualmente estou aprendendo **Flutter**<br><br>- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/sensweettsan](https://github.com/sensweettsan)<br><br>- 💬 Pergunte-me sobre **Suas ideias**<br><br>- 📫 Como entrar em contato comigo **samuelfsp72@gmail.com**<br><br>- 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/samuel-f-157814260/](https://www.linkedin.com/in/samuel-f-157814260/)

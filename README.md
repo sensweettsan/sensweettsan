@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Samuel Francisco</h1>
-<h3 align="center">Um desenvolvedor apaixonado do Brasil</h3>
+<h3 align="center">Um desenvolvedor do Brasil</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/L9vT3PLLlHwAAAAd/my-new-character-my.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sensweettsan&label=Profile%20views&color=0e75b6&style=flat" alt="sensweettsan" /> </p>

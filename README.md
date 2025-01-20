@@ -1,4 +1,4 @@
-# 💫 About Me: Developer Samuel Francisco
+# 💫 About Me: Developer Samuel Francisco 
  
 <img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/zhx0_pZ0NI4AAAAd/galaxian-video-game.gif">
 
